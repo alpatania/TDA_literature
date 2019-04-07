@@ -1,12 +1,29 @@
 # Papers in Topological Data Analysis
 
-## Image Classification
+## Neuroscience
+### fMRI
+Cassidy B. and Rae C. (2015)[Brain activity: Conditional dissimilarity and persistent homology](https://www.researchgate.net/profile/Ben_Cassidy/publication/278035275_Brain_Activity_Conditional_Dissimilarity_and_Persistent_Homology/links/557dae8108aeb61eae2479d7.pdf)
 
+### Neuron spikes
+Spreemann G., Dunn B., Bakke Botnan M., and Baas N.A. (2015)[Using persistent homology to reveal hiddeninformation in neural data](https://arxiv.org/pdf/1510.06629.pdf)
+
+## Dynamical Systems
+Gori M., Franzosi R. and Pettini M. (2018) [Topological origin of phase transitions in the absence ofcritical points of the energy landscape](https://arxiv.org/pdf/1706.01430.pdf)
+
+## Image Classification
 Dey T., Mandal S., Varcho W. (2017) [Improved Image Classification using Topological Persistence](http://web.cse.ohio-state.edu/~dey.8/paper/ImagePers/ImagePers.pdf)
 
+## Cosmology
+Elbers W. and van de Weygaert R. (2018) [Persistent topology of the reionisation bubble network. I:Formalism & Phenomenology](https://arxiv.org/pdf/1812.00462.pdf) NOTE: Has a good summary of TDA techniques
 
 ## Machine Learning
 Hofer C., Kwitt R., Niethammer M., Uhl A. (2017)[Deep Learning with Topological Signatures](https://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures.pdf)
+
+## Immune network theory
+Merelli E., Rasetti M. and Pettini M. (2015) [Topology driven modeling: the IS metaphor](https://link.springer.com/article/10.1007/s11047-014-9436-7)
+
+## General
+Baas N.A. (2018) [TOPOLOGY AND HIGHER CONCURRENCIES](https://arxiv.org/pdf/1805.06760.pdf)
 
 ## Stuff I want to read
 [THIS](https://arxiv.org/pdf/1809.07131.pdf)  
